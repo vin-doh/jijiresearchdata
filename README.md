@@ -21,5 +21,5 @@ This project automates the process of scraping e-commerce data from the Jiji pla
 
 
 ## Notes
--Ensure you have ChromeDriver installed or the appropriate webdriver for your browser version.
--The project uses Selenium to perform browser automation for scraping.
+- Ensure you have ChromeDriver installed or the appropriate webdriver for your browser version.
+- The project uses Selenium to perform browser automation for scraping.
